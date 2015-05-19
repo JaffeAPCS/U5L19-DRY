@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DryRefactored()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Dry\n
+comment1.params=startX\ endX\ startY\ endY\ color
+comment1.target=void\ initRange(int,\ int,\ int,\ int,\ java.awt.Color)
+numComments=2
